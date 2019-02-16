@@ -1,0 +1,86 @@
+*{ 
+	margin:2;
+	padding-bottom:2;
+ }
+h1 {
+	color: rgb(105, 39, 255);
+	font-size: 60px;
+	font-family: century gothic;
+	font-weight: 40;
+	padding:10px;
+	}
+
+
+h2 {
+	font-size: 40px;
+
+}
+
+h3 {
+	font-size: 25px;
+
+}
+
+body {
+	color: #ffd581;
+	font-size: 20px;
+	font-family: century gothic;
+	background-color: rgba(131, 125, 255,0.8);
+	padding:40px;
+	}
+
+
+	a {
+		margin-top: 20;
+		color: rgb(105, 39, 255);
+		font-size:20px;
+		font-family: century gothic;
+		background-color:#bf81ff;
+		border: 3px solid rgb(105, 39, 255);
+		border-radius: 5px;
+		padding:20px;
+	}
+
+	a:hover {
+		color:red;
+	}
+
+
+li > a {
+	padding:0px;
+	color:red;
+	background-color: transparent;
+}
+
+li > a:hover{
+	color: red;
+	background-color: transparent;
+}
+
+
+	#banner {
+		background-image: url("https://picsum.photos/100/900/?random");
+		padding: 100px;
+		background-size: fullwidth;
+		padding-bottom:15px;
+
+	}
+
+	#banner p {
+		padding-bottom: 10px;
+	}
+
+	#footer {
+		text-align: center;
+		font-size: 15px;
+		padding: 25px;
+		background-color: rgb(105, 39, 255);
+	}
+
+.section {
+		text-align: center;
+		padding: 35px;
+
+}
+
+	
